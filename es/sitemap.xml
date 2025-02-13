@@ -15,6 +15,19 @@
                 href="https://elmasmel.github.io/tags/calafell/"
                 />
   </url><url>
+    <loc>https://elmasmel.github.io/categories/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://elmasmel.github.io/ca/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://elmasmel.github.io/categories/"
+                />
+  </url><url>
     <loc>https://elmasmel.github.io/post/aavv-rechaza-derribo-puente-mas-mel/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -70,6 +83,9 @@
     <loc>https://elmasmel.github.io/tags/puente/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://elmasmel.github.io/categories/puente-mas-mel/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://elmasmel.github.io/tags/seguridad/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -115,16 +131,28 @@
                 href="https://elmasmel.github.io/post/rechazo-derribo-puente/"
                 />
   </url><url>
-    <loc>https://elmasmel.github.io/categories/</loc>
+    <loc>https://elmasmel.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://elmasmel.github.io/ca/categories/"
+                href="https://elmasmel.github.io/ca/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://elmasmel.github.io/categories/"
+                href="https://elmasmel.github.io/archives/"
+                />
+  </url><url>
+    <loc>https://elmasmel.github.io/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://elmasmel.github.io/ca/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://elmasmel.github.io/search/"
                 />
   </url>
 </urlset>

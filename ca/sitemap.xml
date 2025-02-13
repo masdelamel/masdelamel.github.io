@@ -15,6 +15,19 @@
                 href="https://elmasmel.github.io/ca/tags/calafell/"
                 />
   </url><url>
+    <loc>https://elmasmel.github.io/ca/categories/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://elmasmel.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://elmasmel.github.io/ca/categories/"
+                />
+  </url><url>
     <loc>https://elmasmel.github.io/ca/post/aavv-rechaza-derribo-puente-mas-mel/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -55,6 +68,9 @@
                 />
   </url><url>
     <loc>https://elmasmel.github.io/ca/tags/pont/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://elmasmel.github.io/ca/categories/pont-mas-mel/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://elmasmel.github.io/ca/post/</loc>
@@ -115,16 +131,28 @@
                 href="https://elmasmel.github.io/ca/post/rechazo-derribo-puente/"
                 />
   </url><url>
-    <loc>https://elmasmel.github.io/ca/categories/</loc>
+    <loc>https://elmasmel.github.io/ca/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://elmasmel.github.io/categories/"
+                href="https://elmasmel.github.io/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://elmasmel.github.io/ca/categories/"
+                href="https://elmasmel.github.io/ca/archives/"
+                />
+  </url><url>
+    <loc>https://elmasmel.github.io/ca/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://elmasmel.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://elmasmel.github.io/ca/search/"
                 />
   </url>
 </urlset>
