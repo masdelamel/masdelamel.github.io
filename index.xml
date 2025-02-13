@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>El Mas Mel</title>
+        <title>Urbanización El Mas Mel</title>
         <link>https://example.org/</link>
-        <description>Recent content on El Mas Mel</description>
+        <description>Recent content on Urbanización El Mas Mel</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>es-ES</language>
+        <language>es</language>
         <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Comunicado de la Asociación de Vecinos de Mas Mel: Nos oponemos al derribo del puente</title>
         <link>https://example.org/post/aavv-rechaza-derribo-puente-mas-mel/</link>
