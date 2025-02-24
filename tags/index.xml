@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Urbanización El Mas Mel</title>
-        <link>https://elmasmel.github.io/tags/</link>
-        <description>Recent content in Tags on Urbanización El Mas Mel</description>
+        <title>Tags on El Mas Mel</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Recent content in Tags on El Mas Mel</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es</language>
-        <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://elmasmel.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Calafell</title>
-        <link>https://elmasmel.github.io/tags/calafell/</link>
+        <link>http://localhost:1313/tags/calafell/</link>
         <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://elmasmel.github.io/tags/calafell/</guid>
+        <guid>http://localhost:1313/tags/calafell/</guid>
         <description></description>
         </item>
         <item>
         <title>Mas Mel</title>
-        <link>https://elmasmel.github.io/tags/mas-mel/</link>
+        <link>http://localhost:1313/tags/mas-mel/</link>
         <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://elmasmel.github.io/tags/mas-mel/</guid>
+        <guid>http://localhost:1313/tags/mas-mel/</guid>
         <description></description>
         </item>
         <item>
         <title>Puente</title>
-        <link>https://elmasmel.github.io/tags/puente/</link>
+        <link>http://localhost:1313/tags/puente/</link>
         <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://elmasmel.github.io/tags/puente/</guid>
+        <guid>http://localhost:1313/tags/puente/</guid>
         <description></description>
         </item>
         <item>
         <title>Seguridad</title>
-        <link>https://elmasmel.github.io/tags/seguridad/</link>
+        <link>http://localhost:1313/tags/seguridad/</link>
         <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://elmasmel.github.io/tags/seguridad/</guid>
+        <guid>http://localhost:1313/tags/seguridad/</guid>
         <description></description>
         </item>
         <item>
         <title>Vecinos</title>
-        <link>https://elmasmel.github.io/tags/vecinos/</link>
+        <link>http://localhost:1313/tags/vecinos/</link>
         <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://elmasmel.github.io/tags/vecinos/</guid>
+        <guid>http://localhost:1313/tags/vecinos/</guid>
         <description></description>
         </item>
         
