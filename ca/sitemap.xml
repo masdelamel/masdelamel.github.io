@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/ca/tags/calafell/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ca/categories/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -28,21 +28,8 @@
                 href="http://localhost:1313/ca/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ca/post/aavv-rechaza-derribo-puente-mas-mel/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/post/aavv-rechaza-derribo-puente-mas-mel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="http://localhost:1313/ca/post/aavv-rechaza-derribo-puente-mas-mel/"
-                />
-  </url><url>
     <loc>http://localhost:1313/ca/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -54,8 +41,21 @@
                 href="http://localhost:1313/ca/"
                 />
   </url><url>
+    <loc>http://localhost:1313/ca/post/el-puente-del-mas-mel/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/post/el-puente-del-mas-mel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://localhost:1313/ca/post/el-puente-del-mas-mel/"
+                />
+  </url><url>
     <loc>http://localhost:1313/ca/tags/mas-mel/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -67,27 +67,8 @@
                 href="http://localhost:1313/ca/tags/mas-mel/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ca/post/vecino-rechaza-derribo/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/post/vecino-rechaza-derribo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="http://localhost:1313/ca/post/vecino-rechaza-derribo/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ca/tags/pont/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ca/categories/pont-mas-mel/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/ca/post/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -99,11 +80,47 @@
                 href="http://localhost:1313/ca/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ca/tags/seguretat/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ca/tags/puente/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/puente/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://localhost:1313/ca/tags/puente/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ca/categories/puente-mas-mel/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/categories/puente-mas-mel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://localhost:1313/ca/categories/puente-mas-mel/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ca/tags/seguridad/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/seguridad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://localhost:1313/ca/tags/seguridad/"
+                />
   </url><url>
     <loc>http://localhost:1313/ca/tags/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -115,21 +132,53 @@
                 href="http://localhost:1313/ca/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ca/tags/ve%C3%AFns/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ca/post/rechazo-derribo-puente/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ca/tags/vecinos/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/post/rechazo-derribo-puente/"
+                href="http://localhost:1313/tags/vecinos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/ca/post/rechazo-derribo-puente/"
+                href="http://localhost:1313/ca/tags/vecinos/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/ca/tags/alcalde/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/alcalde/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://localhost:1313/ca/tags/alcalde/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ca/tags/controv%C3%A8rsia/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ca/post/respuesta-pueblo-ig-ayuntamiento/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/post/respuesta-pueblo-ig-ayuntamiento/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://localhost:1313/ca/post/respuesta-pueblo-ig-ayuntamiento/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ca/tags/pont/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ca/categories/pont-mas-mel/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ca/archives/</loc>
     <xhtml:link

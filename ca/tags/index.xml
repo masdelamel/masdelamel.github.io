@@ -6,10 +6,10 @@
         <description>Recent content in Tags on El Mas Mel</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ca</language>
-        <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ca/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ca/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Calafell</title>
         <link>http://localhost:1313/ca/tags/calafell/</link>
-        <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/ca/tags/calafell/</guid>
         <description></description>
@@ -17,33 +17,57 @@
         <item>
         <title>Mas Mel</title>
         <link>http://localhost:1313/ca/tags/mas-mel/</link>
-        <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/ca/tags/mas-mel/</guid>
         <description></description>
         </item>
         <item>
+        <title>Puente</title>
+        <link>http://localhost:1313/ca/tags/puente/</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ca/tags/puente/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Seguridad</title>
+        <link>http://localhost:1313/ca/tags/seguridad/</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ca/tags/seguridad/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Vecinos</title>
+        <link>http://localhost:1313/ca/tags/vecinos/</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ca/tags/vecinos/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Alcalde</title>
+        <link>http://localhost:1313/ca/tags/alcalde/</link>
+        <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ca/tags/alcalde/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Controvèrsia</title>
+        <link>http://localhost:1313/ca/tags/controv%C3%A8rsia/</link>
+        <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/ca/tags/controv%C3%A8rsia/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Pont</title>
         <link>http://localhost:1313/ca/tags/pont/</link>
-        <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/ca/tags/pont/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Seguretat</title>
-        <link>http://localhost:1313/ca/tags/seguretat/</link>
-        <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/ca/tags/seguretat/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Veïns</title>
-        <link>http://localhost:1313/ca/tags/ve%C3%AFns/</link>
-        <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/ca/tags/ve%C3%AFns/</guid>
         <description></description>
         </item>
         
