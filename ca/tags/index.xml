@@ -6,10 +6,18 @@
         <description>Recent content in Tags on El Mas Mel</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ca</language>
-        <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://masdelamel.github.io/ca/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://masdelamel.github.io/ca/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Alcalde</title>
+        <link>https://masdelamel.github.io/ca/tags/alcalde/</link>
+        <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://masdelamel.github.io/ca/tags/alcalde/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Calafell</title>
         <link>https://masdelamel.github.io/ca/tags/calafell/</link>
-        <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>https://masdelamel.github.io/ca/tags/calafell/</guid>
         <description></description>
@@ -17,9 +25,25 @@
         <item>
         <title>Mas Mel</title>
         <link>https://masdelamel.github.io/ca/tags/mas-mel/</link>
-        <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>https://masdelamel.github.io/ca/tags/mas-mel/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Pont</title>
+        <link>https://masdelamel.github.io/ca/tags/pont/</link>
+        <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://masdelamel.github.io/ca/tags/pont/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Resposta Veïnal</title>
+        <link>https://masdelamel.github.io/ca/tags/resposta-ve%C3%AFnal/</link>
+        <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://masdelamel.github.io/ca/tags/resposta-ve%C3%AFnal/</guid>
         <description></description>
         </item>
         <item>
@@ -47,27 +71,11 @@
         <description></description>
         </item>
         <item>
-        <title>Alcalde</title>
-        <link>https://masdelamel.github.io/ca/tags/alcalde/</link>
-        <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://masdelamel.github.io/ca/tags/alcalde/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Controvèrsia</title>
         <link>https://masdelamel.github.io/ca/tags/controv%C3%A8rsia/</link>
         <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://masdelamel.github.io/ca/tags/controv%C3%A8rsia/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Pont</title>
-        <link>https://masdelamel.github.io/ca/tags/pont/</link>
-        <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://masdelamel.github.io/ca/tags/pont/</guid>
         <description></description>
         </item>
         

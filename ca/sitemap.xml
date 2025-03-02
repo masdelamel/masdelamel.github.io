@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://masdelamel.github.io/ca/tags/alcalde/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://masdelamel.github.io/tags/alcalde/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://masdelamel.github.io/ca/tags/alcalde/"
+                />
+  </url><url>
     <loc>https://masdelamel.github.io/ca/tags/calafell/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -16,7 +29,7 @@
                 />
   </url><url>
     <loc>https://masdelamel.github.io/ca/categories/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -29,7 +42,7 @@
                 />
   </url><url>
     <loc>https://masdelamel.github.io/ca/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -39,6 +52,67 @@
                 rel="alternate"
                 hreflang="ca"
                 href="https://masdelamel.github.io/ca/"
+                />
+  </url><url>
+    <loc>https://masdelamel.github.io/ca/tags/mas-mel/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://masdelamel.github.io/tags/mas-mel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://masdelamel.github.io/ca/tags/mas-mel/"
+                />
+  </url><url>
+    <loc>https://masdelamel.github.io/ca/tags/pont/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://masdelamel.github.io/ca/categories/pont-mas-mel/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://masdelamel.github.io/ca/post/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://masdelamel.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://masdelamel.github.io/ca/post/"
+                />
+  </url><url>
+    <loc>https://masdelamel.github.io/ca/tags/resposta-ve%C3%AFnal/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://masdelamel.github.io/ca/tags/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://masdelamel.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://masdelamel.github.io/ca/tags/"
+                />
+  </url><url>
+    <loc>https://masdelamel.github.io/ca/post/respuestas-declaraciones-alcalde-ig/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://masdelamel.github.io/post/respuestas-declaraciones-alcalde-ig/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://masdelamel.github.io/ca/post/respuestas-declaraciones-alcalde-ig/"
                 />
   </url><url>
     <loc>https://masdelamel.github.io/ca/post/el-puente-del-mas-mel/</loc>
@@ -52,32 +126,6 @@
                 rel="alternate"
                 hreflang="ca"
                 href="https://masdelamel.github.io/ca/post/el-puente-del-mas-mel/"
-                />
-  </url><url>
-    <loc>https://masdelamel.github.io/ca/tags/mas-mel/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://masdelamel.github.io/tags/mas-mel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="https://masdelamel.github.io/ca/tags/mas-mel/"
-                />
-  </url><url>
-    <loc>https://masdelamel.github.io/ca/post/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://masdelamel.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="https://masdelamel.github.io/ca/post/"
                 />
   </url><url>
     <loc>https://masdelamel.github.io/ca/tags/puente/</loc>
@@ -119,19 +167,6 @@
                 href="https://masdelamel.github.io/ca/tags/seguridad/"
                 />
   </url><url>
-    <loc>https://masdelamel.github.io/ca/tags/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://masdelamel.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="https://masdelamel.github.io/ca/tags/"
-                />
-  </url><url>
     <loc>https://masdelamel.github.io/ca/tags/vecinos/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -143,19 +178,6 @@
                 rel="alternate"
                 hreflang="ca"
                 href="https://masdelamel.github.io/ca/tags/vecinos/"
-                />
-  </url><url>
-    <loc>https://masdelamel.github.io/ca/tags/alcalde/</loc>
-    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://masdelamel.github.io/tags/alcalde/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="https://masdelamel.github.io/ca/tags/alcalde/"
                 />
   </url><url>
     <loc>https://masdelamel.github.io/ca/tags/controv%C3%A8rsia/</loc>
@@ -173,12 +195,6 @@
                 hreflang="ca"
                 href="https://masdelamel.github.io/ca/post/declaraciones-alcalde-ig/"
                 />
-  </url><url>
-    <loc>https://masdelamel.github.io/ca/tags/pont/</loc>
-    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://masdelamel.github.io/ca/categories/pont-mas-mel/</loc>
-    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://masdelamel.github.io/ca/archives/</loc>
     <xhtml:link
