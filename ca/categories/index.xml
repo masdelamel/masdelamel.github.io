@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on El Mas Mel</title>
-        <link>http://localhost:1313/ca/categories/</link>
+        <link>https://masdelamel.github.io/ca/categories/</link>
         <description>Recent content in Categories on El Mas Mel</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ca</language>
-        <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ca/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://masdelamel.github.io/ca/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Puente Mas Mel</title>
-        <link>http://localhost:1313/ca/categories/puente-mas-mel/</link>
+        <link>https://masdelamel.github.io/ca/categories/puente-mas-mel/</link>
         <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/ca/categories/puente-mas-mel/</guid>
+        <guid>https://masdelamel.github.io/ca/categories/puente-mas-mel/</guid>
         <description></description>
         </item>
         <item>
         <title>Pont Mas Mel</title>
-        <link>http://localhost:1313/ca/categories/pont-mas-mel/</link>
+        <link>https://masdelamel.github.io/ca/categories/pont-mas-mel/</link>
         <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/ca/categories/pont-mas-mel/</guid>
+        <guid>https://masdelamel.github.io/ca/categories/pont-mas-mel/</guid>
         <description></description>
         </item>
         
